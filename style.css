@@ -1,0 +1,12 @@
+
+.sky{
+    background-color: #9FC5E1;
+}
+
+.sky-button{
+    background-color: #7599BB;
+}
+
+.test:hover{
+        box-shadow: -10px -10px -10px #000000ab;
+}
